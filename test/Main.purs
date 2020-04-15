@@ -1,7 +1,7 @@
 module Test.Main where
 
 import Prelude
-import Halogen as H
+import Halogen.HTML as H
 import Svg.Attributes as SA
 import Svg.Elements as SE
 import Effect (Effect)
